@@ -22,44 +22,36 @@ Keep it sharp, current, and biased toward real work over badges.
   <a href="https://www.linkedin.com/in/ashtonturner/">linkedin</a>
 </p>
 
-I work across infrastructure, security, and AI systems. Previously at Google and Apple. Now independent, building practical tools and taking on selected technical work.
+I build practical tools across infrastructure, security, and AI systems. Previously at Google and Apple. Now independent, shipping products like Pear and Codex Desktop for Linux, writing about the weird corners of AI tooling, and taking on selected technical work.
 
-## Selected Work
+## Featured Projects
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong><a href="https://pearmcp.com">Pear</a></strong><br />
-      Your own local iCloud MCP server for Calendar, Reminders, and Contacts.<br />
-      <sub><a href="https://ashton.com.au/blog/pear-mcp">write-up</a> · <a href="https://github.com/AshtonAU/pear-plugin">plugin repo</a></sub>
-    </td>
-    <td valign="top" width="50%">
-      <strong><a href="https://github.com/AshtonAU/codex-desktop-linux">Codex Desktop Linux</a></strong><br />
-      Unofficial Linux wrapper for the OpenAI Codex desktop app with stable and beta channels.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong><a href="https://github.com/AshtonAU/bom-radar-card">BOM Radar Card</a></strong><br />
-      Home Assistant custom card for Australian Bureau of Meteorology radar tiles. No API key required.
-    </td>
-    <td valign="top" width="50%">
-      <strong><a href="https://ashton.com.au">ashton.com.au</a></strong><br />
-      Personal site and writing on AI tooling, infrastructure, security, and internet rabbit holes.<br />
-      <sub><a href="https://ashton.com.au/blog/how-to-find-and-install-the-latest-codex-beta-on-macos">Codex beta post</a> · <a href="https://ashton.com.au/blog/pear-mcp">Pear post</a></sub>
-    </td>
-  </tr>
-</table>
+- [Pear](https://pearmcp.com)  
+  Local iCloud MCP server for Calendar, Reminders, and Contacts.  
+  [Write-up](https://ashton.com.au/blog/pear-mcp) · [Plugin repo](https://github.com/AshtonAU/pear-plugin)
 
-## Current Focus
+- [Codex Desktop for Linux](https://github.com/AshtonAU/codex-desktop-linux)  
+  Unofficial Linux wrapper for the OpenAI Codex desktop app, with stable and beta channel support.
 
-- Building tools that remove real operator friction, especially around AI workflows and local infrastructure.
-- Security research, bug bounty work, and the kind of technical cleanup that usually gets postponed too long.
-- Systems and automation work that sits between cloud, self-hosted environments, and actual day-to-day use.
+- [BOM Radar Card](https://github.com/AshtonAU/bom-radar-card)  
+  Home Assistant custom card for Australian Bureau of Meteorology radar tiles. No API key required.
+
+- [Writing](https://ashton.com.au/blog)  
+  Notes on AI tooling, infrastructure, security, and internet rabbit holes.  
+  [Pear post](https://ashton.com.au/blog/pear-mcp) · [Codex beta guide](https://ashton.com.au/blog/how-to-find-and-install-the-latest-codex-beta-on-macos) · [RSS](https://ashton.com.au/rss.xml)
+
+## What I Work On
+
+- AI systems, local tooling, and the unglamorous integration work that makes them actually usable
+- Security research, bug bounty work, and operational cleanup
+- Infrastructure and automation across cloud, self-hosted, and day-to-day developer workflows
+
+## Work With Me
+
+I take on selected consulting across AI systems, infrastructure, security, and technical problem-solving.
+
+[Services](https://ashton.com.au/services) · [LinkedIn](https://www.linkedin.com/in/ashtonturner/)
 
 ## Elsewhere
 
-- [GitHub](https://github.com/AshtonAU)
-- [X](https://x.com/AshtonAU)
-- [LinkedIn](https://www.linkedin.com/in/ashtonturner/)
-- [Blog RSS](https://ashton.com.au/rss.xml)
+[GitHub](https://github.com/AshtonAU) · [X](https://x.com/AshtonAU) · [LinkedIn](https://www.linkedin.com/in/ashtonturner/)
