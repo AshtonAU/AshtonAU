@@ -4,13 +4,6 @@ Keep it sharp, current, and biased toward real work over badges.
 -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-    <img src="./assets/header-light.svg" alt="Ashton Turner — security consultant, systems engineer, and builder of practical AI tools." />
-  </picture>
-</p>
-
-<p align="center">
   <a href="https://ashton.com.au">site</a>
   ·
   <a href="https://ashton.com.au/blog">blog</a>
