@@ -23,9 +23,6 @@ I build practical tools across infrastructure, security, and AI systems. Previou
   Local iCloud MCP server for Calendar, Reminders, and Contacts.  
   [Write-up](https://ashton.com.au/blog/pear-mcp) · [Plugin repo](https://github.com/AshtonAU/pear-plugin)
 
-- [Codex Desktop for Linux](https://github.com/AshtonAU/codex-desktop-linux)  
-  Unofficial Linux wrapper for the OpenAI Codex desktop app, with stable and beta channel support.
-
 - [BOM Radar Card](https://github.com/AshtonAU/bom-radar-card)  
   Home Assistant custom card for Australian Bureau of Meteorology radar tiles. No API key required.
 
