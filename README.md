@@ -3,7 +3,7 @@ This repository appears on the GitHub profile for AshtonAU.
 Keep it sharp, current, and biased toward real work over badges.
 -->
 
-# ashton turner // practical systems, healthcare IT, and useful AI
+# ashton
 
 hands-on IT operator, consultant, and builder  
 [site](https://ashton.com.au) · [services](https://ashton.com.au/services) · [writing](https://ashton.com.au/blog) · [email](mailto:hello@ashton.com.au) · [linkedin](https://www.linkedin.com/in/ashtonturner/) · [x](https://x.com/AshtonAU)
