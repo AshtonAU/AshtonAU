@@ -24,6 +24,10 @@ I build practical tools across infrastructure, healthcare IT, and AI systems tha
 | `✍️` [Writing](https://ashton.com.au/blog) | Notes on AI tooling, infrastructure, security, and internet rabbit holes. [Codex beta guide](https://ashton.com.au/blog/how-to-find-and-install-the-latest-codex-beta-on-macos) · [RSS](https://ashton.com.au/rss.xml) |
 | `🧰` [ashton.com.au](https://ashton.com.au) | Personal site for writing, consulting, experiments, and the occasional sharp opinion about bad tooling. |
 
+## support open source
+
+If one of the tools or write-ups here saves you time, you can support the ongoing open-source work via [GitHub Sponsors](https://github.com/sponsors/AshtonAU) or [Buy Me a Coffee](https://buymeacoffee.com/ashtonau).
+
 ## background
 
 - 10+ years of hands-on IT work across enterprise support, telecom, healthcare IT, and independent consulting
