@@ -3,45 +3,50 @@ This repository appears on the GitHub profile for AshtonAU.
 Keep it sharp, current, and biased toward real work over badges.
 -->
 
-<p align="center">
-  <a href="https://ashton.com.au">site</a>
-  ·
-  <a href="https://ashton.com.au/blog">blog</a>
-  ·
-  <a href="https://pearmcp.com">pear</a>
-  ·
-  <a href="https://x.com/AshtonAU">x</a>
-  ·
-  <a href="https://www.linkedin.com/in/ashtonturner/">linkedin</a>
-</p>
+# ashton turner // practical systems, healthcare IT, and useful AI
 
-I build practical tools across infrastructure, security, and AI systems. Previously at Google and Apple. Now independent, shipping products like Pear and Codex Desktop for Linux, writing about the weird corners of AI tooling, and taking on selected technical work.
+hands-on IT operator, consultant, and builder  
+[site](https://ashton.com.au) · [services](https://ashton.com.au/services) · [writing](https://ashton.com.au/blog) · [email](mailto:hello@ashton.com.au) · [linkedin](https://www.linkedin.com/in/ashtonturner/) · [x](https://x.com/AshtonAU)
 
-## Featured Projects
+I build practical tools across infrastructure, healthcare IT, and AI systems that people can actually use.
 
-- [Pear](https://pearmcp.com)  
-  Local iCloud MCP server for Calendar, Reminders, and Contacts.  
-  [Write-up](https://ashton.com.au/blog/pear-mcp) · [Plugin repo](https://github.com/AshtonAU/pear-plugin)
+10+ years across Google, Apple, telecom, healthcare IT, and independent consulting. Strong on Microsoft 365, infrastructure, troubleshooting, and the messy integration work between "this should work" and "it works now."
 
-- [BOM Radar Card](https://github.com/AshtonAU/bom-radar-card)  
-  Home Assistant custom card for Australian Bureau of Meteorology radar tiles. No API key required.
+> I like honest advice, useful tools, and fixes that survive contact with reality.
 
-- [Writing](https://ashton.com.au/blog)  
-  Notes on AI tooling, infrastructure, security, and internet rabbit holes.  
-  [Pear post](https://ashton.com.au/blog/pear-mcp) · [Codex beta guide](https://ashton.com.au/blog/how-to-find-and-install-the-latest-codex-beta-on-macos) · [RSS](https://ashton.com.au/rss.xml)
+## projects
 
-## What I Work On
+| Name | Description |
+|:--|:--|
+| `🍐` [Pear](https://pearmcp.com) | iCloud Calendar, Reminders, and Contacts for Claude Code via CalDAV/CardDAV. [Write-up](https://ashton.com.au/blog/pear-mcp) · [Repo](https://github.com/AshtonAU/pear-plugin) |
+| `🛡️` [HackerOne](https://hackerone.com/AshtonSec) | Verified vulnerability reports and security-adjacent research, including 4 accepted findings with 2 High severity reports. |
+| `🌧️` [BOM Radar Card](https://github.com/AshtonAU/bom-radar-card) | Home Assistant custom card for native Bureau of Meteorology radar tiles. No API key required. |
+| `✍️` [Writing](https://ashton.com.au/blog) | Notes on AI tooling, infrastructure, security, and internet rabbit holes. [Codex beta guide](https://ashton.com.au/blog/how-to-find-and-install-the-latest-codex-beta-on-macos) · [RSS](https://ashton.com.au/rss.xml) |
+| `🧰` [ashton.com.au](https://ashton.com.au) | Personal site for writing, consulting, experiments, and the occasional sharp opinion about bad tooling. |
 
-- AI systems, local tooling, and the unglamorous integration work that makes them actually usable
-- Security research, bug bounty work, and operational cleanup
-- Infrastructure and automation across cloud, self-hosted, and day-to-day developer workflows
+## background
 
-## Work With Me
+- 10+ years of hands-on IT work across enterprise support, telecom, healthcare IT, and independent consulting
+- Worked across Google and Apple support and operations environments
+- Healthcare IT experience with PACS, RIS, PowerScribe, RHEL, and medical imaging workflows
+- 4 verified HackerOne findings, including 2 High severity reports
+- Comfortable with Microsoft 365, Exchange, DNS, Linux, networking, endpoint rollouts, and owner-operator infrastructure
 
-I take on selected consulting across AI systems, infrastructure, security, and technical problem-solving.
+## what i work on
 
-[Services](https://ashton.com.au/services) · [LinkedIn](https://www.linkedin.com/in/ashtonturner/)
+- infrastructure, Microsoft 365, migrations, troubleshooting, and operational cleanup
+- healthcare IT and medical imaging environments that most generalists have never touched
+- local tooling, automation, and AI workflow work that solves a real problem instead of creating a new one
+- bug bounty and security-adjacent work, without pretending to be a pentest agency
 
-## Elsewhere
+## work with me
 
-[GitHub](https://github.com/AshtonAU) · [X](https://x.com/AshtonAU) · [LinkedIn](https://www.linkedin.com/in/ashtonturner/)
+I take on selected project work across infrastructure, healthcare IT, MSP overflow, and practical AI enablement.
+
+If you need someone who can drop into a messy environment, work out what matters, and make it move:
+
+[services](https://ashton.com.au/services) · [email](mailto:hello@ashton.com.au) · [linkedin](https://www.linkedin.com/in/ashtonturner/)
+
+## elsewhere
+
+[github](https://github.com/AshtonAU) · [hackerone](https://hackerone.com/AshtonSec) · [x](https://x.com/AshtonAU) · [linkedin](https://www.linkedin.com/in/ashtonturner/)
