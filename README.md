@@ -3,54 +3,32 @@ This repository appears on the GitHub profile for AshtonAU.
 Keep it sharp, current, and biased toward real work over badges.
 -->
 
-# ashton
+# I'm [Ashton](https://ashton.com.au). I build [Pear](https://pearmcp.com).
 
-hands-on IT operator, consultant, and builder  
-[site](https://ashton.com.au) · [services](https://ashton.com.au/services) · [writing](https://ashton.com.au/blog) · [email](mailto:hello@ashton.com.au) · [linkedin](https://www.linkedin.com/in/ashtonturner/) · [x](https://x.com/AshtonAU)
+I'm a systems engineer on the Central Coast, Australia.
 
-I build practical tools across infrastructure, healthcare IT, and AI systems that people can actually use.
+<p>
+  <img src="assets/pear-connected-work.webp" alt="A pear connected to paper envelopes, a calendar and contact cards in a warm ivory and forest-green still life." width="1680" height="560">
+</p>
 
-10+ years across Google, Apple, telecom, healthcare IT, and independent consulting. Strong on Microsoft 365, infrastructure, troubleshooting, and the messy integration work between "this should work" and "it works now."
+## Pear
 
-> I like honest advice, useful tools, and fixes that survive contact with reality.
+[Pear](https://pearmcp.com) is the hosted MCP service I build and run. It connects compatible AI tools to iCloud and Microsoft 365 for mail, calendars, contacts and Microsoft To Do.
 
-## projects
+Find a message, check your availability, look up a contact or prepare a reply using the accounts you already have. No local MCP server to run.
 
-| Name | Description |
-|:--|:--|
-| `🍐` [Pear](https://pearmcp.com) | iCloud Calendar, Reminders, and Contacts for Claude Code via CalDAV/CardDAV. [Write-up](https://ashton.com.au/blog/pear-mcp) · [Repo](https://github.com/AshtonAU/pear-plugin) |
-| `🛡️` [HackerOne](https://hackerone.com/AshtonSec) | Verified vulnerability reports and security-adjacent research, including 4 accepted findings with 2 High severity reports. |
-| `🌧️` [BOM Radar Card](https://github.com/AshtonAU/bom-radar-card) | Home Assistant custom card for native Bureau of Meteorology radar tiles. No API key required. |
-| `✍️` [Writing](https://ashton.com.au/blog) | Notes on AI tooling, infrastructure, security, and internet rabbit holes. [Codex beta guide](https://ashton.com.au/blog/how-to-find-and-install-the-latest-codex-beta-on-macos) · [RSS](https://ashton.com.au/rss.xml) |
-| `🧰` [ashton.com.au](https://ashton.com.au) | Personal site for writing, consulting, experiments, and the occasional sharp opinion about bad tooling. |
+Pear includes scoped access and approval workflows for changes to connected accounts, with a record of the approved action and its outcome. The [setup guides](https://pearmcp.com/docs) cover the requirements for each client and provider.
 
-## support open source
+**[Explore Pear](https://pearmcp.com)** · [Data handling](https://pearmcp.com/data-handling) · [Public plugins](https://github.com/AshtonAU/pear-plugin)
 
-If one of the tools or write-ups here saves you time, you can support the ongoing open-source work via [GitHub Sponsors](https://github.com/sponsors/AshtonAU) or [Buy Me a Coffee](https://buymeacoffee.com/ashtonau).
+## BOM Radar Card
 
-## background
+I wanted Australian rain radar on the Home Assistant screen in my house, so I built a card for it. I keep maintaining it as BOM and Home Assistant change.
 
-- 10+ years of hands-on IT work across enterprise support, telecom, healthcare IT, and independent consulting
-- Worked across Google and Apple support and operations environments
-- Healthcare IT experience with PACS, RIS, PowerScribe, RHEL, and medical imaging workflows
-- 4 verified HackerOne findings, including 2 High severity reports
-- Comfortable with Microsoft 365, Exchange, DNS, Linux, networking, endpoint rollouts, and owner-operator infrastructure
+[Repository](https://github.com/AshtonAU/bom-radar-card) · [The build story](https://ashton.com.au/blog/how-i-rebuilt-bom-radar-for-home-assistant)
 
-## what i work on
+## A bit about me
 
-- infrastructure, Microsoft 365, migrations, troubleshooting, and operational cleanup
-- healthcare IT and medical imaging environments that most generalists have never touched
-- local tooling, automation, and AI workflow work that solves a real problem instead of creating a new one
-- bug bounty and security-adjacent work, without pretending to be a pentest agency
+My background is in infrastructure, Microsoft 365 and healthcare IT, including medical imaging systems. I write about the things I build, what breaks and what I change along the way.
 
-## work with me
-
-I take on selected project work across infrastructure, healthcare IT, MSP overflow, and practical AI enablement.
-
-If you need someone who can drop into a messy environment, work out what matters, and make it move:
-
-[services](https://ashton.com.au/services) · [email](mailto:hello@ashton.com.au) · [linkedin](https://www.linkedin.com/in/ashtonturner/)
-
-## elsewhere
-
-[github](https://github.com/AshtonAU) · [hackerone](https://hackerone.com/AshtonSec) · [x](https://x.com/AshtonAU) · [linkedin](https://www.linkedin.com/in/ashtonturner/)
+[Website](https://ashton.com.au) · [Writing](https://ashton.com.au/blog) · [Systems consulting](https://ashton.com.au/services) · [Email](mailto:hello@ashton.com.au)
